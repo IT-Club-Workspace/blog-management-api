@@ -74,17 +74,17 @@ To submit your solution, follow these steps:
 
 ### 1️⃣ Fork the Repository
 Fork the project repository from GitHub:  
-🔗 [IT Club Blog Management API](https://github.com/IT-Club-Workspace/blog-managment-api.git)
+🔗 [IT Club Blog Management API](https://github.com/IT-Club-Workspace/blog-management-api.git)
 
 ### 2️⃣ Clone Your Forked Repository
 bash
 # Clone the forked repository to your local machine
-git clone https://github.com/YOUR_USERNAME/blog-managment-api.git
+git clone https://github.com/YOUR_USERNAME/blog-management-api.git
 
 
 ### 3️⃣ Create a New Branch
 bash
-cd blog-managment-api
+cd blog-management-api
 git checkout -b feature/your-feature-name
 
 
